@@ -44,7 +44,7 @@
           href="http://#/"
           target="_blank"
         >
-         Semiconductor Rrobot-lift 
+         Semiconductor Rrobot-lift
         </a>
       </li>
       <li>
@@ -68,13 +68,13 @@
           href="https://#"
           target="_blank"
         >
-         Electronic dev device 
+         Electronic dev device
         </a>
       </li>
     </ul>
 <br>
 <ul>
-<li><span>GOODKN. Copyallrights reserved</span></li>
+<li><span>GOODKN.company Copyallrights2023 reserved</span></li>
 </ul>
   </div>
 </template>
